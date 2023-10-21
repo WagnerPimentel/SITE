@@ -1,0 +1,18 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    color: blueviolet;
+    font-size: 26px;
+}
+h2{
+    color: rgb(69, 46, 90);
+    font-size: 22px;
+}
+h3{
+    color: rgb(84, 68, 100);
+    font-size: 20px;
+}
+p{
+    color: rgb(39, 31, 78);
+}
